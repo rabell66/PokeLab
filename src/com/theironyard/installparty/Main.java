@@ -15,7 +15,7 @@ public class Main {
         AQUA_DUDE(50, 6, ElementType.WATER, ElementType.COFFEE),
         IXIO(40, 10, ElementType.LIGHTNING, ElementType.COFFEE),
 
-        Java_Joe(100,12,ElementType.COFFEE, ElementType.FIRE);
+        Java_Joe(80,12,ElementType.COFFEE, ElementType.FIRE);
 
 
 
